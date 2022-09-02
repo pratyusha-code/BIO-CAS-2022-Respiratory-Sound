@@ -1,0 +1,344 @@
+use_cuda: True
+{'Coarse Crackle': 0, 'Fine Crackle': 1, 'Normal': 2, 'Rhonchi': 3, 'Stridor': 4, 'Wheeze': 5, 'Wheeze+Crackle': 6}
+Number of Samples before Sampling : 
+5 231
+1 3071
+4 72
+2 32073
+3 9
+6 129
+0 72
+32073
+Number of Samples After Sampling : 
+5 32073
+1 32073
+4 32073
+2 32073
+3 32073
+6 32073
+0 32073
+32073
+179608 44903 179608 44903
+
+
+Training : 
+Saved Successfully
+Duplicate Checkpoint Saved Successfully
+Testing : 
+49.38200120259225
+[[6228    0    0    0  296   88    0]
+ [2260   25    0  662 2110 1273    0]
+ [2235    7    0  608 1955 1507    0]
+ [   0    0    0 6392    0    0    0]
+ [ 176    0    0 1009 4736  381    0]
+ [1180    0    0   92  352 4793    0]
+ [1471   48    0 1163 3695  161    0]]
+Epoch No 1 completed.
+Train Loss : 1.7666548135613445 	 Valid Loss : 1.6747065782546997 	 Accuracy : 49.38200120259225
+
+
+Training : 
+Saved Successfully
+Duplicate Checkpoint Saved Successfully
+Testing : 
+58.50165913190656
+[[6365    0    0    0  279    0    0]
+ [ 852 1619    0  194 2430 1112   41]
+ [ 927 1395    0  165 2390 1457   42]
+ [   0    0    0 6479    0    0    0]
+ [   0    0    0   80 6156    0    0]
+ [ 168  370    0    0  366 5568    0]
+ [ 122 1540    0  446 4258    0   82]]
+Epoch No 2 completed.
+Train Loss : 1.652532820688014 	 Valid Loss : 1.6328415870666504 	 Accuracy : 58.50165913190656
+
+
+Training : 
+Saved Successfully
+Duplicate Checkpoint Saved Successfully
+Testing : 
+64.30305324811259
+[[6344  109    0    0    0    0  167]
+ [ 343 3811    0   15    2  552 1585]
+ [ 603 2556    0   15   15  990 2129]
+ [   0    0    0 6364    0    0    0]
+ [   0   79    0    0    0    0 6114]
+ [ 100  206    0    0    0 6055  160]
+ [   0  289    0    0    0    0 6300]]
+Epoch No 3 completed.
+Train Loss : 1.6032466232946456 	 Valid Loss : 1.558167576789856 	 Accuracy : 64.30305324811259
+
+
+Training : 
+Saved Successfully
+Duplicate Checkpoint Saved Successfully
+Testing : 
+78.32884217090172
+[[6366  304    0    0    0    0    0]
+ [ 192 4475    0   15  372  583  634]
+ [ 409 3293    6   18  601 1014  994]
+ [   0    0    0 6452    0    0    0]
+ [   0    0    0    0 5708    0  644]
+ [  53  237    0    0    0 6004   61]
+ [   0    0    0    0  307    0 6161]]
+Epoch No 4 completed.
+Train Loss : 1.5096967911448573 	 Valid Loss : 1.4650938510894775 	 Accuracy : 78.32884217090172
+
+
+Training : 
+Saved Successfully
+Duplicate Checkpoint Saved Successfully
+Testing : 
+81.28187426229874
+[[6516   92    0    0   92    0    0]
+ [ 124 5049   48    7  398  340  303]
+ [ 329 3869   78    8  718  771  585]
+ [   0    0    0 6347    0    0    0]
+ [   0    0    0    0 6342    0    0]
+ [   0  297   35    0   28 6068   41]
+ [   0    0    0    0  320    0 6098]]
+Epoch No 5 completed.
+Train Loss : 1.4287160342914766 	 Valid Loss : 1.3790007829666138 	 Accuracy : 81.28187426229874
+
+
+Training : 
+Saved Successfully
+Duplicate Checkpoint Saved Successfully
+Testing : 
+83.16370843818899
+[[6451   99    0    0  111    0    0]
+ [  86 4479 1089    7  275  279  227]
+ [ 257 2910 1658    5  523  563  453]
+ [   0    0    0 6305    0    0    0]
+ [   0    0    0    0 6237    0    0]
+ [   0  142  202    0   27 6116   31]
+ [   0    0    0    0  274    0 6097]]
+Epoch No 6 completed.
+Train Loss : 1.3629345968577937 	 Valid Loss : 1.3403128385543823 	 Accuracy : 83.16370843818899
+
+
+Training : 
+Saved Successfully
+Duplicate Checkpoint Saved Successfully
+Testing : 
+84.93196445671781
+[[6358   94    0    0  103    0    0]
+ [  93 4072 1619    9  174  180  160]
+ [ 238 2213 2739   11  408  442  422]
+ [   0    0    0 6437    0    0    0]
+ [   0    0    0    0 6241    0    0]
+ [   0  127  197    0   28 6127   29]
+ [   0    0   38    0  181    0 6163]]
+Epoch No 7 completed.
+Train Loss : 1.338992644324262 	 Valid Loss : 1.3251711130142212 	 Accuracy : 84.93196445671781
+
+
+Training : 
+Saved Successfully
+Duplicate Checkpoint Saved Successfully
+Testing : 
+85.62902255973988
+[[6388  112    0    0  114    0    0]
+ [ 112 4037 1764    3  141  181  149]
+ [ 267 2013 3103   13  275  362  378]
+ [   0    0    0 6347    0    0    0]
+ [   0    0    0    0 6246    0    0]
+ [   0  171  191    0   18 6063    0]
+ [   0    0    0    0  189    0 6266]]
+Epoch No 8 completed.
+Train Loss : 1.325595764862506 	 Valid Loss : 1.3154807090759277 	 Accuracy : 85.62902255973988
+
+
+Training : 
+Saved Successfully
+Duplicate Checkpoint Saved Successfully
+Testing : 
+86.65790704407279
+[[6451   98    0    0  108    0    0]
+ [  66 3895 1882   13  104  189  157]
+ [ 180 1719 3606   15  208  393  287]
+ [   0    0    0 6365    0    0    0]
+ [   0    0    0    0 6253    0    0]
+ [  27  186   84    0   28 6059   26]
+ [   0    0  106    0  115    0 6283]]
+Epoch No 9 completed.
+Train Loss : 1.315099333426212 	 Valid Loss : 1.3041726350784302 	 Accuracy : 86.65790704407279
+
+
+Training : 
+Saved Successfully
+Duplicate Checkpoint Saved Successfully
+Testing : 
+87.1055386054384
+[[6443   92    0    0  105    0    0]
+ [  51 3951 1892    2   86  157  194]
+ [ 178 1643 3663   10  207  349  310]
+ [   0    0    0 6374    0    0    0]
+ [   0    0    0    0 6327    0    0]
+ [   0  101  206    0   24 6175   35]
+ [   0    0    0    0  148    0 6180]]
+Epoch No 10 completed.
+Train Loss : 1.308276470739957 	 Valid Loss : 1.2987290620803833 	 Accuracy : 87.1055386054384
+
+
+Training : 
+Saved Successfully
+Duplicate Checkpoint Saved Successfully
+Testing : 
+87.41732178250896
+[[6500    0  115    0    0    0    0]
+ [  49 4097 1791    2   88  143  151]
+ [ 126 1776 3615    6  247  316  259]
+ [   0    0    0 6473    0    0    0]
+ [   0    0    0    0 6224    0    0]
+ [  29  134  242    0    0 6028   28]
+ [   0    0    0    0  148    0 6316]]
+Epoch No 11 completed.
+Train Loss : 1.3007427616166933 	 Valid Loss : 1.294796347618103 	 Accuracy : 87.41732178250896
+
+
+Training : 
+Saved Successfully
+Duplicate Checkpoint Saved Successfully
+Testing : 
+87.75805625459323
+[[6537    0  110    0    0    0    0]
+ [  44 3969 1814    2  105  128  186]
+ [ 115 1729 3863    9  210  297  244]
+ [   0    0    0 6339    0    0    0]
+ [   0    0    0    0 6304    0    0]
+ [   0  125  219    0    0 6002   37]
+ [   0    0   76    0   47    0 6392]]
+Epoch No 12 completed.
+Train Loss : 1.297610840057036 	 Valid Loss : 1.2915292978286743 	 Accuracy : 87.75805625459323
+
+
+Training : 
+Saved Successfully
+Duplicate Checkpoint Saved Successfully
+Testing : 
+88.35044429102733
+[[6446    0  103    0    0    0    0]
+ [  59 4119 1843    0   85  158   97]
+ [  91 1695 4009    5  141  335  176]
+ [   0    0    0 6386    0    0    0]
+ [   0    0    0    0 6254    0    0]
+ [   0   58  290    0    0 6159    0]
+ [   0    0    0    0   95    0 6299]]
+Epoch No 13 completed.
+Train Loss : 1.2903969098529924 	 Valid Loss : 1.2850333452224731 	 Accuracy : 88.35044429102733
+
+
+Training : 
+Saved Successfully
+Duplicate Checkpoint Saved Successfully
+Testing : 
+88.28808765561321
+[[6324    0  116    0    0    0    0]
+ [  46 4071 1769    1   71  166  125]
+ [ 109 1653 4045    3  170  372  226]
+ [   0    0    0 6316    0    0    0]
+ [   0    0    0    0 6475    0    0]
+ [   0  124  212    0   27 6016    0]
+ [   0    0    0    0   69    0 6397]]
+Epoch No 14 completed.
+Train Loss : 1.2875563255232623 	 Valid Loss : 1.282792091369629 	 Accuracy : 88.28808765561321
+
+
+Training : 
+Saved Successfully
+Duplicate Checkpoint Saved Successfully
+Testing : 
+88.59096274191035
+[[6511    0  102    0    0    0    0]
+ [  52 4040 1943    8   89  108   88]
+ [ 115 1463 4045   13  211  258  210]
+ [   0    0    0 6428    0    0    0]
+ [   0    0    0    0 6326    0    0]
+ [  25  169  164    0    0 6156    0]
+ [   0    0    0    0  105    0 6274]]
+Epoch No 15 completed.
+Train Loss : 1.2863605337435025 	 Valid Loss : 1.2801791429519653 	 Accuracy : 88.59096274191035
+
+
+Training : 
+Saved Successfully
+Duplicate Checkpoint Saved Successfully
+Testing : 
+89.1677616194909
+[[6486    0  109    0    0    0    0]
+ [  38 4316 1736    1   53  102   81]
+ [ 134 1555 4144    8  126  241  193]
+ [   0    0    0 6370    0    0    0]
+ [   0    0    0    0 6326    0    0]
+ [  32  206  122    0   28 6042    0]
+ [   0    0    0    0   99    0 6355]]
+Epoch No 16 completed.
+Train Loss : 1.2845133879245856 	 Valid Loss : 1.2767280340194702 	 Accuracy : 89.1677616194909
+
+
+Training : 
+Saved Successfully
+Duplicate Checkpoint Saved Successfully
+Testing : 
+88.14778522593146
+[[6426    0  113    0    0    0    0]
+ [  40 4059 1920    0   70  158  147]
+ [ 109 1539 4046    8  156  326  210]
+ [   0    0    0 6378    0    0    0]
+ [   0    0    0    0 6253    0    0]
+ [  26  209  154    0   36 5902    0]
+ [   0    0  101    0    0    0 6517]]
+Epoch No 17 completed.
+Train Loss : 1.2829967584365454 	 Valid Loss : 1.283816933631897 	 Accuracy : 88.14778522593146
+
+
+Training : 
+Saved Successfully
+Duplicate Checkpoint Saved Successfully
+Testing : 
+89.07199964367636
+[[6535    0   91    0    0    0    0]
+ [  20 4144 1857    0   44  147  101]
+ [ 105 1523 4160    4  120  273  138]
+ [   0    0    0 6311    0    0    0]
+ [   0    0    0    0 6348    0    0]
+ [  23   81  259    0   33 6229    0]
+ [   0    0    0    0   88    0 6269]]
+Epoch No 18 completed.
+Train Loss : 1.2811438410710065 	 Valid Loss : 1.2750489711761475 	 Accuracy : 89.07199964367636
+
+
+Training : 
+Saved Successfully
+Duplicate Checkpoint Saved Successfully
+Testing : 
+89.06086453020956
+[[6609    0  112    0    0    0    0]
+ [  34 4275 1689    0   74  153   83]
+ [  79 1640 3989    4  113  313  167]
+ [   0    0    0 6370    0    0    0]
+ [   0    0    0    0 6287    0    0]
+ [  27  178  133    0   34 6033    0]
+ [   0    0    0    0   79    0 6428]]
+Epoch No 19 completed.
+Train Loss : 1.2787387298892365 	 Valid Loss : 1.2750810384750366 	 Accuracy : 89.06086453020956
+
+
+Training : 
+Saved Successfully
+Duplicate Checkpoint Saved Successfully
+Testing : 
+89.22343718682494
+[[6441    0  118    0    0    0    0]
+ [  47 4146 1899    2   64  132  108]
+ [  77 1367 4304    5  167  253  166]
+ [   0    0    0 6397    0    0    0]
+ [   0    0    0    0 6210    0    0]
+ [  13   86  225    0   23 6179    0]
+ [   0    0    0    0   87    0 6387]]
+Epoch No 20 completed.
+Train Loss : 1.2785954288607648 	 Valid Loss : 1.2737616300582886 	 Accuracy : 89.22343718682494
+
+
+Training : 

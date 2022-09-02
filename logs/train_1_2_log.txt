@@ -1,0 +1,244 @@
+(multi_sl) (base) seshadri_c@gnode40:~/home/BioCAS/codes$ python train_1_2.py 
+use_cuda: True
+4485 1122 4485 1122
+{'Rhonchi', 'Normal', 'Wheeze', 'Fine Crackle', 'Stridor', 'Coarse Crackle', 'Wheeze+Crackle'}
+
+
+Training : 
+Epoch : 1 Training Loss : 1.8619303703308105 Iteration : 35/36: : 36it [00:07,  4.82it/s]
+Saved Successfully
+Duplicate Checkpoint Saved Successfully
+Testing : 
+Epoch : 1 Validation Loss : 1.8874931335449219 Iteration : 9/9: : 9it [00:00,  9.74it/s]
+Epoch No 1 completed.
+Train Loss : 1.810210108757019 	 Valid Loss : 1.8874931335449219
+9it [00:00,  9.61it/s]
+Accuracy =  0.35553075396825395
+
+
+Training : 
+Epoch : 2 Training Loss : 1.8724925518035889 Iteration : 35/36: : 36it [00:02, 14.27it/s]
+Saved Successfully
+Duplicate Checkpoint Saved Successfully
+Testing : 
+Epoch : 2 Validation Loss : 1.8870187997817993 Iteration : 9/9: : 9it [00:00, 10.04it/s]
+Epoch No 2 completed.
+Train Loss : 1.820478916168213 	 Valid Loss : 1.8870187997817993
+9it [00:00,  9.92it/s]
+Accuracy =  0.30753968253968256
+
+
+Training : 
+Epoch : 3 Training Loss : 1.8687015771865845 Iteration : 35/36: : 36it [00:02, 13.59it/s]
+Saved Successfully
+Duplicate Checkpoint Saved Successfully
+Testing : 
+Epoch : 3 Validation Loss : 1.8757116794586182 Iteration : 9/9: : 9it [00:00,  9.68it/s]
+Epoch No 3 completed.
+Train Loss : 1.8167932033538818 	 Valid Loss : 1.8757116794586182
+9it [00:00,  9.77it/s]
+Accuracy =  0.33204010770975056
+
+
+Training : 
+Epoch : 4 Training Loss : 1.8685331344604492 Iteration : 35/36: : 36it [00:02, 13.93it/s]
+Saved Successfully
+Duplicate Checkpoint Saved Successfully
+Testing : 
+Epoch : 4 Validation Loss : 1.8827542066574097 Iteration : 9/9: : 9it [00:00,  9.94it/s]
+Epoch No 4 completed.
+Train Loss : 1.816629409790039 	 Valid Loss : 1.8827542066574097
+9it [00:00,  9.78it/s]
+Accuracy =  0.31761975623582767
+
+
+Training : 
+Epoch : 5 Training Loss : 1.8774490356445312 Iteration : 35/36: : 36it [00:02, 14.42it/s]
+Saved Successfully
+Duplicate Checkpoint Saved Successfully
+Testing : 
+Epoch : 5 Validation Loss : 1.8872241973876953 Iteration : 9/9: : 9it [00:00, 10.13it/s]
+Epoch No 5 completed.
+Train Loss : 1.8252977132797241 	 Valid Loss : 1.8872241973876953
+9it [00:00,  9.94it/s]
+Accuracy =  0.31241142290249435
+
+
+Training : 
+Epoch : 6 Training Loss : 1.8663324117660522 Iteration : 35/36: : 36it [00:02, 14.20it/s]
+Saved Successfully
+Duplicate Checkpoint Saved Successfully
+Testing : 
+Epoch : 6 Validation Loss : 1.884005069732666 Iteration : 9/9: : 9it [00:00,  9.52it/s] 
+Epoch No 6 completed.
+Train Loss : 1.8144898414611816 	 Valid Loss : 1.884005069732666
+9it [00:00,  9.73it/s]
+Accuracy =  0.32596371882086167
+
+
+Training : 
+Epoch : 7 Training Loss : 1.8735604286193848 Iteration : 35/36: : 36it [00:02, 14.11it/s]
+Saved Successfully
+Duplicate Checkpoint Saved Successfully
+Testing : 
+Epoch : 7 Validation Loss : 1.8827970027923584 Iteration : 9/9: : 9it [00:00,  9.96it/s]
+Epoch No 7 completed.
+Train Loss : 1.8215171098709106 	 Valid Loss : 1.8827970027923584
+9it [00:00,  9.83it/s]
+Accuracy =  0.3138818027210884
+
+
+Training : 
+Epoch : 8 Training Loss : 1.8748507499694824 Iteration : 35/36: : 36it [00:02, 14.06it/s]
+Saved Successfully
+Duplicate Checkpoint Saved Successfully
+Testing : 
+Epoch : 8 Validation Loss : 1.877819299697876 Iteration : 9/9: : 9it [00:00, 10.04it/s] 
+Epoch No 8 completed.
+Train Loss : 1.8227715492248535 	 Valid Loss : 1.877819299697876
+9it [00:00,  9.78it/s]
+Accuracy =  0.32222576530612246
+
+
+Training : 
+Epoch : 9 Training Loss : 1.8694226741790771 Iteration : 35/36: : 36it [00:02, 14.03it/s]
+Saved Successfully
+Duplicate Checkpoint Saved Successfully
+Testing : 
+Epoch : 9 Validation Loss : 1.8851451873779297 Iteration : 9/9: : 9it [00:00,  9.74it/s]
+Epoch No 9 completed.
+Train Loss : 1.81749427318573 	 Valid Loss : 1.8851451873779297
+9it [00:00,  9.35it/s]
+Accuracy =  0.31241142290249435
+
+
+Training : 
+Epoch : 10 Training Loss : 1.875917911529541 Iteration : 35/36: : 36it [00:02, 12.97it/s] 
+Saved Successfully
+Duplicate Checkpoint Saved Successfully
+Testing : 
+Epoch : 10 Validation Loss : 1.88077712059021 Iteration : 9/9: : 9it [00:00,  9.58it/s]  
+Epoch No 10 completed.
+Train Loss : 1.8238091468811035 	 Valid Loss : 1.88077712059021
+9it [00:00,  9.66it/s]
+Accuracy =  0.32456420068027214
+
+
+Training : 
+Epoch : 11 Training Loss : 1.8629634380340576 Iteration : 35/36: : 36it [00:02, 14.20it/s]
+Saved Successfully
+Duplicate Checkpoint Saved Successfully
+Testing : 
+Epoch : 11 Validation Loss : 1.884949803352356 Iteration : 9/9: : 9it [00:00,  9.95it/s] 
+Epoch No 11 completed.
+Train Loss : 1.8112144470214844 	 Valid Loss : 1.884949803352356
+9it [00:00,  9.81it/s]
+Accuracy =  0.31588364512471656
+
+
+Training : 
+Epoch : 12 Training Loss : 1.8596307039260864 Iteration : 35/36: : 36it [00:02, 13.85it/s]
+Saved Successfully
+Duplicate Checkpoint Saved Successfully
+Testing : 
+Epoch : 12 Validation Loss : 1.8783721923828125 Iteration : 9/9: : 9it [00:00,  9.81it/s]
+Epoch No 12 completed.
+Train Loss : 1.8079743385314941 	 Valid Loss : 1.8783721923828125
+9it [00:00,  9.98it/s]
+Accuracy =  0.31875354308390025
+
+
+Training : 
+Epoch : 13 Training Loss : 1.868596076965332 Iteration : 35/36: : 36it [00:02, 14.30it/s] 
+Saved Successfully
+Duplicate Checkpoint Saved Successfully
+Testing : 
+Epoch : 13 Validation Loss : 1.884958028793335 Iteration : 9/9: : 9it [00:00,  9.88it/s] 
+Epoch No 13 completed.
+Train Loss : 1.8166906833648682 	 Valid Loss : 1.884958028793335
+9it [00:00,  9.98it/s]
+Accuracy =  0.32569798752834467
+
+
+Training : 
+Epoch : 14 Training Loss : 1.8614052534103394 Iteration : 35/36: : 36it [00:02, 14.18it/s]
+Saved Successfully
+Duplicate Checkpoint Saved Successfully
+Testing : 
+Epoch : 14 Validation Loss : 1.8792330026626587 Iteration : 9/9: : 9it [00:00, 10.05it/s]
+Epoch No 14 completed.
+Train Loss : 1.8096996545791626 	 Valid Loss : 1.8792330026626587
+9it [00:01,  8.91it/s]
+Accuracy =  0.3216943027210884
+
+
+Training : 
+Epoch : 15 Training Loss : 1.8607609272003174 Iteration : 35/36: : 36it [00:02, 14.23it/s]
+Saved Successfully
+Duplicate Checkpoint Saved Successfully
+Testing : 
+Epoch : 15 Validation Loss : 1.885516881942749 Iteration : 9/9: : 9it [00:00,  9.54it/s] 
+Epoch No 15 completed.
+Train Loss : 1.8090730905532837 	 Valid Loss : 1.885516881942749
+9it [00:00,  9.87it/s]
+Accuracy =  0.32422760770975056
+
+
+Training : 
+Epoch : 16 Training Loss : 1.863186240196228 Iteration : 35/36: : 36it [00:02, 13.99it/s] 
+Saved Successfully
+Duplicate Checkpoint Saved Successfully
+Testing : 
+Epoch : 16 Validation Loss : 1.8807299137115479 Iteration : 9/9: : 9it [00:00,  9.35it/s]
+Epoch No 16 completed.
+Train Loss : 1.8114310503005981 	 Valid Loss : 1.8807299137115479
+9it [00:00,  9.84it/s]
+Accuracy =  0.31935586734693877
+
+
+Training : 
+Epoch : 17 Training Loss : 1.8743382692337036 Iteration : 35/36: : 36it [00:02, 13.87it/s]
+Saved Successfully
+Duplicate Checkpoint Saved Successfully
+Testing : 
+Epoch : 17 Validation Loss : 1.8756250143051147 Iteration : 9/9: : 9it [00:00,  9.82it/s]
+Epoch No 17 completed.
+Train Loss : 1.8222732543945312 	 Valid Loss : 1.8756250143051147
+9it [00:00, 10.03it/s]
+Accuracy =  0.33264243197278914
+
+
+Training : 
+Epoch : 18 Training Loss : 1.865211009979248 Iteration : 35/36: : 36it [00:02, 14.33it/s] 
+Saved Successfully
+Duplicate Checkpoint Saved Successfully
+Testing : 
+Epoch : 18 Validation Loss : 1.8852143287658691 Iteration : 9/9: : 9it [00:00,  9.83it/s]
+Epoch No 18 completed.
+Train Loss : 1.8133996725082397 	 Valid Loss : 1.8852143287658691
+9it [00:00, 10.05it/s]
+Accuracy =  0.32109197845804993
+
+
+Training : 
+Epoch : 19 Training Loss : 1.8612326383590698 Iteration : 35/36: : 36it [00:02, 13.69it/s]
+Saved Successfully
+Duplicate Checkpoint Saved Successfully
+Testing : 
+Epoch : 19 Validation Loss : 1.8806520700454712 Iteration : 9/9: : 9it [00:00,  9.85it/s]
+Epoch No 19 completed.
+Train Loss : 1.809531807899475 	 Valid Loss : 1.8806520700454712
+9it [00:00,  9.81it/s]
+Accuracy =  0.3276998299319728
+
+
+Training : 
+Epoch : 20 Training Loss : 1.867555856704712 Iteration : 35/36: : 36it [00:02, 13.74it/s] 
+Saved Successfully
+Duplicate Checkpoint Saved Successfully
+Testing : 
+Epoch : 20 Validation Loss : 1.881609559059143 Iteration : 9/9: : 9it [00:00,  9.61it/s] 
+Epoch No 20 completed.
+Train Loss : 1.8156793117523193 	 Valid Loss : 1.881609559059143
+9it [00:00,  9.69it/s]
+Accuracy =  0.3276998299319728
